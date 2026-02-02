@@ -26,4 +26,4 @@ A simple console-based Employee Payroll Management System built with Java.
 - Pension: 8%
 
 ## Author
-Your Name
+Toluwani Daniel
